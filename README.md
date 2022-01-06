@@ -14,3 +14,4 @@ UP206A: Intro to GIS and Spatial Data Science introduces students to the foundat
 ## Class Project Ideas
 - Exploring the potential impact of anticipated sea level rise on public transportation systems in Southern California
 - Mapping public transit options in LA communities where indigenous languages are spoken
+- Examining how library use, zip code, and income levels interact in L.A.
