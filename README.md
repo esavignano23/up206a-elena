@@ -5,6 +5,7 @@ My name is Elena (she/her) and I am a first year MURP student concentrating in R
 **Course Description**
 
 UP206A: Intro to GIS and Spatial Data Science introduces students to the foundations of spatial data science. During the quarter, we will learn the basics of Python programming and spatial analysis through geoprocessing. Each week, we will participate in programming lab sessions and respond to weekly or bi-weekly assignments as a way of thinking more critically about contemporary issues. By the end of the course, we will learn how to critically evaluate data, learn to produce high-quality and informative visualizations that inform policy, and more. 
+
 **My objectives** for the course are to:
 
 1. Establish a foundational knowledge of coding with Python
