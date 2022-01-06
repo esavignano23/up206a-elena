@@ -1,6 +1,6 @@
 # up206a-elena
 ## About Me
-My name is Elena (she/her) and I am a first year MURP student concentrating in Regional & International Development and Transportation Planning & Policy. I grew up in Massachusetts and Rhode Island and earned my B.A. in Hispanic Studies and Public Policy from Wheaton College in Massachusetts. Prior to starting at UCLA, I lived in San Diego for over five years, working in museum education and the non-profit sector. I enjoy playing tennis, going to the beach, reading, and spending time with my partner and our dog Yoda :dog: 
+My name is Elena (she/her) and I am a first year MURP student concentrating in Regional & International Development and Transportation Planning & Policy. I was raised in Massachusetts and earned my B.A. in Hispanic Studies and Public Policy from Wheaton College (MA). Prior to starting at UCLA, I lived in San Diego for over five years where I worked in museum education and the non-profit sector. I enjoy playing tennis, going to the beach, reading, and spending time with my partner and our dog Yoda :dog: 
 ## Course Description + my objectives
 **Course Description**
 
