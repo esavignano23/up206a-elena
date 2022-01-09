@@ -4,10 +4,10 @@
 
 **Source**: [California State Geoportal](https://gis.data.ca.gov/datasets/3df9308864dc46949e3da0d92e049186_0/about)
 
-**Download**:
+**Download**: [Repo Link](https://github.com/esavignano23/up206a-elena/blob/main/data/Rail_Intercity_Routes.csv)
 ## Coastal Inundation High 2FT
 **Description**: This dataset depicts potential 2 FT sea level rise (SLR) and coastal flooding. I would be interested in overlaying the data with transportation routes in Southern California. 
 
 **Source**: [SCAG Coastal Inundation High 2Ft](https://gisdata-scag.opendata.arcgis.com/datasets/coastal-inundation-high-2ft/explore?location=34.165922%2C-119.237878%2C8.00)
 
-**Download**:
+**Download**: [Repo Link](https://github.com/esavignano23/up206a-elena/blob/main/data/Coastal_Inundation_High_2FT.csv)
