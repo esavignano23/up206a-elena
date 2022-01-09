@@ -1,0 +1,430 @@
+﻿OBJECTID,BEGIN_MP,END_MP,ROW_OWNER,FREIGHT_OP,SUBDIVISIO,SHRTLN_NAM,SHRTLN_COD,PASS_OP,PASS_NETWO,COMM_OP,COMM_NETWO,RECR_OP,RECR_NETWO,STATUS,RR_CLSS,TRK_CLSS,PASS_SPEED,FRT_SPEED,FRT_DNS,NUM_TRACK,STRACNET,CR63,SHAPE_LENG,SHAPE_Length
+1,976,982.2,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,9901.03006313,12331.8803691525
+2,986.3,987.3,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",1607.47810964,2005.02422038367
+3,987.3,988.3,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",1665.81594917,2078.21270664246
+4,988.3,989.5,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",1618.94773385,2020.1722460038
+5,989.5,993,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",5627.79306932,7025.41742741087
+6,993,994.3,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,3,30,30,5,2,S,"2MT,CTC",2479.70669098,3096.95036249014
+7,994.3,994.9,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,40,5,2, ,"2MT,CTC",1134.4029985,1416.42597740664
+8,888,889.2,BNSF,"BNSF,SJVR",Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",1646.89836377,2019.53719302822
+9,889.2,889.7,BNSF,"BNSF,SJVR",Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",1673.30651094,2052.51030455134
+10,889.7,891.1,BNSF,"BNSF,SJVR",Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,55,5,2,S,"2MT,CTC",1157.33175685,1419.48183652672
+11,891.1,892.5,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,55,5,2,S,"2MT,CTC",2599.84625103,3188.30669053425
+12,892.5,895.7,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,5152.45105034,6324.37926879871
+13,895.7,897.7,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,3211.80241924,3945.10048931102
+14,897.7,899.5,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,3425.8713543,4209.1406500307
+15,899.5,905.4,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,9163.22173822,11263.7839938745
+16,905.4,910.5,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,8546.89544856,10515.2652092889
+17,910.5,913,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,3983.23732958,4907.81050852956
+18,913,914,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,1681.12766398,2072.02304541233
+19,914,919.2,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,8067.26985438,9948.2392501172
+20,919.2,921.2,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,3222.9086073,3976.76259863141
+21,921.2,924.6,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,5816.63500184,7179.72976549447
+22,924.6,932.3,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,12077.349437,14920.4812155101
+23,932.3,936,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,6257.97487855,7735.91523923496
+24,936,942.1,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,10025.3208754,12402.6256587432
+25,942.1,945.9,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,6119.70157931,7576.71801695125
+26,945.9,950.9,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,7838.41282023,9711.11371810108
+27,950.9,960.3,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,14572.0713621,18072.9938549354
+28,960.3,964,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,6579.38670338,8171.48980869794
+29,964,965.6,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,2435.99054209,3027.13751140861
+30,965.6,967.2,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,2852.68342371,3545.89018135595
+31,967.2,967.7,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,3,45,45,5,2,S,"2MT,CTC",835.52444255,1038.75569530586
+32,967.7,967.9,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,3,45,45,5,2,S,"2MT,CTC",247.61768774,307.862060192238
+33,967.9,969,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,3,45,45,5,2,S,"2MT,CTC",1770.93666146,2201.57234820969
+34,969,970.1,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,3,45,45,5,2,S,"2MT,CTC",1913.71276902,2379.90704647458
+35,970.1,973.2,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,2,S,"2MT,CTC",4871.99505851,6061.71086393685
+36,973.2,976,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,4397.57405152,5471.93417528267
+37,982.2,985.6,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,5586.57657649,6964.06081805262
+38,985.6,986.3,BNSF,BNSF,Bakersfield, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,5,1,S,CTC,1168.27688614,1456.98123322393
+39,1041.5,1047.3,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,9403.55808934,11824.8147551068
+40,1047.3,1050.7,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,5468.99020598,6878.2165141192
+41,1050.7,1052.1,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,2245.77603911,2824.08452870854
+42,1052.1,1055.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,5621.51418334,7069.45647012641
+43,1055.6,1058,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,60,4,1,S,CTC,3845.20573715,4837.0526115852
+44,1058,1059.1,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,1773.39295054,2231.44478854549
+45,1059.1,1062.9,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,6112.16626462,7693.75539092277
+46,1062.9,1065.4,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,4015.8153521,5056.82671665156
+47,1065.4,1071.7,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,10063.454009,12680.0024984928
+48,1071.7,1079.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,12712.6643898,16032.7536567671
+49,1079.6,1083,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,5483.78777242,6922.44143655367
+50,1083,1085.8,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,4504.32555065,5688.66497602975
+51,1085.8,1089.2,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,5711.50245323,7216.48796278054
+52,1089.2,1091.4,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",3303.00013491,4176.88534525649
+53,1091.4,1092.8,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,2257.53401291,2855.65426658412
+54,1092.8,1095.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,4489.20911339,5680.648589887
+55,1095.6,1098.5,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,4665.88813488,5907.45314939211
+56,1098.5,1101.1,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",4181.23815546,5294.15392229326
+57,1101.1,1102.9,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",2910.13439862,3685.58321890591
+58,1102.9,1109.6,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,10768.3298577,13643.8048886449
+59,1109.6,1111.9,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,3688.098628,4675.27597420429
+60,1111.9,1114.8,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,4654.69285672,5902.34068128161
+61,1114.8,1116.1,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,2083.76450721,2643.00731778146
+62,1116.1,1117.6,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",2403.19674397,3048.60932116527
+63,1117.6,1119.7,BNSF,"BNSF,UP,CCT",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",3374.38386145,4281.37736417729
+64,1120.7,1121.4,BNSF,"BNSF,CCT",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,30,30,4,2,S,"2MT,CTC",863.8369329,1095.77535325241
+65,1122.2,1125,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,55,3,1,S,CTC,3119.0026818,3956.06188484092
+66,1125,1126.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,2571.96349815,3261.94083280728
+67,1126.6,1128.9,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,3688.88081133,4678.36598235637
+68,1128.9,1133.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",7546.93543572,9571.5407484483
+69,1133.6,1134.8,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,50,50,3,1,S,CTC,1919.23911464,2434.21329521591
+70,1134.8,1136.8,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,3205.10132789,4065.13108876603
+71,1136.8,1139.2,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,3843.28182232,4874.55717458617
+72,1139.2,1142.4,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",5138.96738923,6520.17881045444
+73,1142.4,1146.4,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",6421.19579907,8152.04101665675
+74,1147.6,1149.2,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,2589.39551736,3287.51077132264
+75,1150.3,1151.9,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,2561.038569,3251.54570849896
+76,1151.9,1155.3,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,60,3,1,S,CTC,5456.46662856,6928.13290332399
+77,1155.8,1163.5,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,13742.196927,17453.4478099939
+78,996.7,997.4,BNSF,"BNSF,SJVR",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,35,4,2,S,"2MT,CTC",518.92364873,648.399097760559
+79,997.4,998.1,BNSF,"BNSF,SJVR",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,35,4,2,S,"2MT,CTC",986.89703664,1233.19299747715
+80,1119.7,1120.5,BNSF,"BNSF,UP,CCT",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,55,4,2,S,"2MT,CTC",1281.34721702,1625.61553352991
+81,1120.5,1120.7,BNSF,"BNSF,UP,CCT",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,55,4,2,S,"2MT,CTC",1562.85106302,1982.59904866535
+82,1121.4,1122.2,BNSF,"BNSF,CCT",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,60,55,3,2,S,"2MT,CTC",1669.21217157,2117.31587318768
+83,1146.4,1147.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,1932.52606399,2453.41798740166
+84,1149.2,1149.8,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,961.17930583,1220.28143580446
+85,1149.8,1150.3,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,810.42980876,1028.87663434383
+86,1155.3,1155.8,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,806.89271806,1024.62790816774
+87,994.9,996.7,BNSF,"BNSF,SJVR",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,40,5,2,S,"2MT,CTC",2290.34402302,2859.99861842472
+88,886.9,887.5,BNSF,"BNSF,SJVR",Mojave, , ,Amtrak,San Joaquin, , , , ,1,I,2,20,20,5,2,S,"DT,ABS",959.81220273,1177.00321211733
+89,887.5,888,BNSF,"BNSF,SJVR",Mojave, , ,Amtrak,San Joaquin, , , , ,1,I,2,20,20,5,2,S,"2MT,CTC",609.27604939,747.13481893261
+90,998.1,999.7,BNSF,"BNSF,SJVR",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,35,4,1,S,CTC,3733.06949779,4664.75489854018
+91,999.7,1005,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,3,35,30,4,1,S,CTC,7376.71861038,9220.19916852507
+92,1005,1011.3,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,10133.3683363,12672.5557876046
+93,1011.3,1014.7,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,5491.77862076,6874.27028804318
+94,1014.7,1019.6,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,7893.20508829,9886.49841819696
+95,1019.6,1025.4,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,9338.68493454,11704.914300898
+96,1025.4,1031.1,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,9164.60322523,11499.1071180875
+97,1031.1,1041.5,BNSF,BNSF,Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,4,1,S,CTC,16740.3493906,21030.051594519
+98,6.3,6.4,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",274.55825501,347.636831581883
+99,39,41.8,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,40,6,2,S,"2MT,CTC",4287.43344107,5489.14082719553
+100,55,59.2,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,6953.24884443,8876.52409611939
+101,0,0,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,2,25,25,6,2,S,"2MT,CTC",660.77357881,845.553542008178
+102,41.8,43,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",2925.18557422,3744.3009415903
+103,43,44.7,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,1916.97906956,2453.38690951359
+104,44.7,47.6,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,4548.34415676,5818.77971870201
+105,47.6,52.1,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,7043.9038982,9005.0840886939
+106,52.1,55,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",4837.56501634,6180.01925718569
+107,59.2,62.2,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",4930.992599,6290.42661150789
+108,62.2,63.3,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,1048.06970629,1336.53704572936
+109,63.3,68.1,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,8143.914428,10379.6988076629
+110,68.1,69.8,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,2962.43479252,3773.22916723674
+111,69.8,71.9,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,70,65,6,1,S,CTC,3336.32439869,4248.15829241067
+112,71.9,73.3,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,2209.57359811,2812.52185783814
+113,73.3,74.8,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,2591.49281241,3297.68053200618
+114,74.8,76.9,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,3245.56699359,4128.50392036517
+115,76.9,80,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,1,S,CTC,4878.89809951,6203.06830351446
+116,80,82.3,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",3614.48244892,4593.08195976045
+117,82.3,83,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",961.67464592,1221.69709427065
+118,83,84,UP,UP,Fresno, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,40,6,2,S,"2MT,CTC",2009.62187203,2552.44045363549
+119,84.5,84.7,UP,UP,Fresno, , ,Amtrak,San Joaquin,SJRRC,ACE, , ,1,I,3,40,40,6,2,S,"2MT,CTC",240.01258074,304.768277687027
+120,84.2,84.5,UP,UP,Fresno, , ,Amtrak,San Joaquin,SJRRC,ACE, , ,1,I,3,40,40,6,2,S,"2MT,CTC",384.93447728,488.800617780241
+121,84,84.2,UP,UP,Fresno, , ,Amtrak,San Joaquin,SJRRC,ACE, , ,1,I,3,40,40,6,2,S,"2MT,CTC",495.49312643,629.231613342858
+122,31.7,31.8,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,3,S,"3MT,CTC",166.89098503,211.906599017971
+123,31,31.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,3,S,"3MT,CTC",826.50543075,1049.48594957602
+124,31.8,32,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,45,30,4,3,S,"3MT,CTC",460.49050631,584.796454681582
+125,2.2,3.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",1509.80008353,1912.95688730473
+126,3.2,3.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",246.40374413,312.339577376593
+127,3.7,4.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",1207.21282091,1530.5211811578
+128,4.3,4.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",564.46832754,715.698532129738
+129,4.5,4.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",210.03429563,266.31298300542
+130,4.7,5.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",816.97461458,1035.94091005474
+131,5.2,6.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",2058.67120795,2610.87048348161
+132,6.2,9.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",6439.65004514,8169.79946912588
+133,9.4,12,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",2721.85059186,3453.45118172845
+134,12,15.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",5303.15910764,6734.87443990096
+135,15.3,20.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",8220.84119928,10440.2125595261
+136,20.4,20.8,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,43,30,4,2,S,"2MT,CTC",789.79351463,1003.39493576765
+137,20.8,26,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,43,30,4,2,S,"2MT,CTC",8186.92050924,10402.9732532855
+138,26,27.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,2,S,"2MT,CTC",2220.99267886,2821.53772429449
+139,27.5,30.1,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,30,4,2,S,"2MT,CTC",4387.74490962,5575.79341580211
+140,30.1,31,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,2,S,"2MT,CTC",1489.73298794,1892.01302120034
+141,88.8,88.9,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,20,20,3,2,S,"2MT,CTC",121.8096013,155.852308553164
+142,88.9,90.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,20,20,3,2,S,"2MT,CTC",2048.07362833,2621.02933504223
+143,90.2,90.6,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,San Joaquin", , , , ,1,I,3,35,35,6,2,S,"2MT,CTC",584.08724768,747.365511664839
+144,90.6,91.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,San Joaquin", , , , ,1,I,3,35,35,6,3,S,"3MT,CTC",1735.06359776,2219.99041931714
+145,4.6,5.2,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",1066.77063365,1351.42524926174
+146,6.4,6.8,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",733.38271754,928.580527785557
+147,6.8,7,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",231.51277719,293.12633872102
+148,5.8,6.3,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,2,2,S,"2MT,CTC",615.30071877,779.009477720412
+149,5.2,5.8,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",694.8068977,879.689233406516
+150,4.2,4.6,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",429.92343928,544.844854527977
+151,36,38.1,UP,UP,Tracy, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,60,1,1,S,CTC,3516.95422971,4466.23404917786
+152,38.1,41.3,UP,UP,Tracy, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,60,1,1,S,CTC,4477.41962205,5687.12545624433
+153,34.7,36,UP,UP,Tracy, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,30,1,2,S,"2MT,CTC",1584.39658809,2012.08779803326
+154,34.5,34.7,UP,UP,Tracy, , ,Amtrak,San Joaquin, , , , ,1,I,3,40,30,1,2,S,"2MT,CTC",484.18486514,614.870592359813
+155,1163.5,1164,BNSF,"BNSF,UP",Stockton, , ,Amtrak,San Joaquin, , , , ,1,I,4,79,70,3,1,S,CTC,632.14118632,802.965915771831
+156,163,165,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",3078.38257303,3703.37159164115
+157,144.5,144.7,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,3,40,40,6,4,S,"4MT,CTC",213.83789211,257.870663710597
+158,144.7,145.1,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,3,40,40,6,3,S,"3MT,CTC",780.47603534,941.202160581937
+159,145.1,146,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",1458.44140506,1758.61853028847
+160,146,147.3,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",2027.91727104,2445.14406915662
+161,147.3,148.5,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",1910.74912399,2303.65812050007
+162,148.5,149.8,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",2092.69299688,2522.84083106874
+163,149.8,150.9,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",1772.78771592,2138.4290984526
+164,150.9,151.1,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",437.10967997,527.540912513758
+165,151.1,152.1,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,2,S,"2MT,CTC",1216.47325899,1466.88220566631
+166,152.1,153,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,3,50,40,6,2,S,"2MT,CTC",1882.11622085,2269.78919154014
+167,153,155,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,3,50,40,6,2,S,"2MT,CTC",3219.23576864,3891.52159902675
+168,155,155.5,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,2,S,"2MT,CTC",800.94712884,968.838302435359
+169,155.5,156.1,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,2,S,"2MT,CTC",936.52815271,1132.59307308497
+170,156.1,156.8,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,75,50,6,2,S,"2MT,CTC",1203.06148981,1451.01223698712
+171,156.8,157.7,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,2,S,"2MT,CTC",1402.54081955,1690.56891830309
+172,157.7,158.7,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,2,S,"2MT,CTC",1510.50324068,1820.53761224483
+173,158.7,160.3,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",2559.56444274,3084.47148535372
+174,160.3,161.2,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",1495.47349719,1801.22301561942
+175,161.2,163,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,4,79,50,6,3,S,"3MT,CTC",3024.30663051,3639.09138919545
+176,165,165.5,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,3,50,50,6,3,S,"3MT,CTC",698.63340669,840.507317897459
+177,144.4,144.5,BNSF,BNSF,San Bernardino, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,I,3,40,40,6,4,S,"4MT,CTC",244.58011997,294.934245073786
+178,170.6,172.4,SCRRA,"BNSF,UP",Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,79,50,1,2,S,"2MT,CTC",2507.70760842,3016.49436631031
+179,172.4,172.6,SCRRA,"BNSF,UP",Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,35,35,1,2,S,"2MT,CTC",145.32559583,175.530521207013
+180,172.6,174.7,SCRRA,"BNSF,UP",Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,60,35,1,2,S,"2MT,CTC",3312.79413656,4000.38846135577
+181,174.7,175.2,SCRRA,"BNSF,UP",Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,79,55,1,2,S,"2MT,CTC",873.90503395,1055.16160577356
+182,175.2,178.9,SCRRA,"BNSF,UP",Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,50,40,0,2,S,"2MT,CTC",5965.47056956,7183.0714386339
+183,178.9,179.5,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",941.93222895,1133.28176172561
+184,179.5,184.5,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",8005.63776586,9629.01718406795
+185,184.5,185,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",830.75189926,998.894463186185
+186,185,185.3,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",589.0099508,708.190572380521
+187,185.3,186.7,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",1827.90360573,2197.60527706021
+188,186.7,193.7,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",11253.4327427,13551.199732072
+189,193.7,193.9,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,2,S,"2MT,CTC",564.02802635,679.558447998271
+190,193.9,196.2,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,1,S,CTC,3607.02088673,4343.86480347187
+191,196.2,197.2,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,90,55,0,1,S,CTC,1785.97201781,2149.72931187549
+192,197.2,198,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,60,55,0,1,S,CTC,1232.48636108,1484.03747603024
+193,198,199.9,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,40,35,0,1,S,CTC,3192.76233747,3838.29454653731
+194,199.9,203.7,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,45,40,0,1,S,CTC,5794.95848643,6950.74043619305
+195,203.7,204.8,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,40,40,0,1,S,CTC,1924.53106338,2309.74522221609
+196,2.2,3.3,SCRRA,UP,River-East Bank Line, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,3,50,40,2,3,C,"3MT,CTC",1726.85932511,2089.88599836591
+197,456.1,460.6,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,79,40,1,2,C,"2MT,CTC",7491.26880426,9051.67069887768
+198,426.4,427.1,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,60,1,1,C,CTC,1204.96640714,1457.18847840529
+199,427.1,427.6,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,60,1,1,C,CTC,837.42326586,1012.7120349556
+200,427.6,431.1,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,73,60,1,1,C,CTC,7220.4815182,8736.82834938506
+201,140.2,142.6,SCRRA,"BNSF,SCAX",River-West Bank Line, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,N/A,3,35,25,0,2,S,"2MT,CTC",3676.64496986,4451.60740305554
+202,0.8,1,SCRRA,"BNSF,SCAX",River-West Bank Line, , ,Amtrak,Pacific Surfliner, , , , ,1,N/A,1,15,10,0,1, ,CTC,390.93816085,473.344775182627
+203,1,1.6,SCRRA,"BNSF,SCAX",River-West Bank Line, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line,Burbank-Bob Hope Airport", , ,1,N/A,2,30,20,0,1, ,CTC,965.32720546,1169.17485037817
+204,1.6,2.2,SCRRA,SCAX,River-West Bank Line, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line,Burbank-Bob Hope Airport", , ,1,N/A,2,50,20,0,2, ,"2MT,CTC",847.59251772,1026.78881545979
+205,142.6,144.4,SCRRA,"BNSF,SCAX",River-West Bank Line, , ,Amtrak,"Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Orange County Line", , ,1,N/A,4,79,40,6,2,S,"2MT,CTC",2930.32851283,3539.64211642598
+206,0,0.3,SCRRA,"BNSF,SCAX,UP",River-Terminal Lead, , ,Amtrak,"Coast Starlight,Sunset Limited,Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Antelope Valley Line,Burbank-Bob Hope Airport,Orange County Line,Riverside Line,San Bernardino Line,Ventura County Line", , ,1,N/A,1,20,10,0,15, ,"15MT,YL",485.56157235,587.945424289502
+207,0.7,0.8,SCRRA,"BNSF,SCAX,UP",River-Terminal Lead, , ,Amtrak,"Coast Starlight,Pacific Surfliner,Sunset Limited",Metrolink,"Antelope Valley Line,Ventura County Line,Burbank-Bob Hope Airport", , ,1,N/A,1,25,10,0,1, ,CTC,183.35392045,221.119891842441
+208,0.3,0.5,SCRRA,"BNSF,SCAX,UP",River-Terminal Lead, , ,Amtrak,"Coast Starlight,Sunset Limited,Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Antelope Valley Line,Burbank-Bob Hope Airport,Orange County Line,Riverside Line,San Bernardino Line,Ventura County Line", , ,1,N/A,1,20,10,0,4, ,"4MT,CTC",305.39354618,369.633864824461
+209,0.5,0.7,SCRRA,"BNSF,SCAX,UP",River-Terminal Lead, , ,Amtrak,"Coast Starlight,Sunset Limited,Pacific Surfliner,Southwest Chief",Metrolink,"91 Line,Antelope Valley Line,Burbank-Bob Hope Airport,Orange County Line,Riverside Line,San Bernardino Line,Ventura County Line", , ,1,N/A,1,20,10,0,4, ,"4MT,CTC",307.78196759,371.497342892314
+210,4.8,5.8,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,60,40,2,2,C,"2MT,CTC",1555.23316944,1881.28902478032
+211,5.8,6.4,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,79,55,2,2,C,"2MT,CTC",1010.67397894,1223.9353415755
+212,6.4,9.8,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,79,55,2,2,C,"2MT,CTC",5626.11165866,6810.8721576011
+213,9.8,10.8,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,79,55,2,2,C,"2MT,CTC",1510.89495014,1827.36842040873
+214,10.8,11.1,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,79,55,2,2,C,"2MT,CTC",432.06610553,522.938941600511
+215,11.1,11.3,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,79,55,2,2,C,"2MT,CTC",567.92622624,687.520664199716
+216,204.8,207.4,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,3,40,40,0,1,S,CTC,4182.83895664,5023.28961364928
+217,165.4,167.3,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,Orange County Line, , ,1,N/A,3,55,40,1,2,S,"2MT,CTC",2447.84990321,2957.33427406243
+218,167.3,169.8,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,Orange County Line, , ,1,N/A,4,79,50,1,2,S,"2MT,CTC",4557.06928192,5503.35603061441
+219,169.8,170.6,SCRRA,BNSF,Orange, , ,Amtrak,Pacific Surfliner,Metrolink,Orange County Line, , ,1,N/A,4,70,50,1,2,S,"2MT,CTC",1284.90040244,1546.09992250319
+220,3.3,3.5,SCRRA,UP,River-East Bank Line, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,3,50,40,0,2,C,"2MT,CTC",350.34278881,423.321794128989
+221,3.5,4.8,SCRRA,UP,Valley, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Antelope Valley Line,Ventura County Line, Burbank-Bob Hope Airport", , ,1,N/A,4,60,40,2,2,C,"2MT,CTC",2196.36501383,2658.87775974786
+222,432.9,437.9,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,60,40,1,1,C,CTC,6148.34373503,7434.52261810106
+223,437.9,439.2,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,40,1,1,C,CTC,2103.55001918,2544.57496881918
+224,439.2,440.8,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,60,40,1,1,C,CTC,2745.58913081,3321.98423355878
+225,440.8,444.4,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,3,40,40,1,1,C,CTC,4468.68064406,5406.63350555933
+226,444.4,445.5,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,40,1,1,C,CTC,2503.86418151,3037.45591454442
+227,445.5,446.8,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,40,1,1,C,CTC,1969.35455285,2386.81532252524
+228,446.8,449.3,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,40,1,1,C,CTC,4173.65446428,5045.19986838116
+229,449.3,453.1,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,70,40,1,1,C,CTC,6199.92840954,7493.60182975602
+230,453.1,453.7,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,79,40,1,2,C,"2MT,CTC",1225.02219619,1480.49310762548
+231,453.7,455,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,79,40,1,2,C,"2MT,CTC",1754.43112629,2120.20380775388
+232,455,456.1,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,3,40,30,1,2,C,"2MT,CTC",1617.95187828,1955.20191167786
+233,460.6,460.8,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Ventura County Line,Burbank-Bob Hope Airport", , ,1,N/A,4,79,40,1,2,C,"2MT,CTC",301.75309193,364.571944287199
+234,460.8,462.6,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,"Ventura County Line,Burbank-Bob Hope Airport", , ,1,N/A,3,40,30,1,2,C,"2MT,CTC",2738.28646671,3308.46933265894
+235,431.1,432.9,SCRRA,UP,Ventura, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,N/A,4,73,60,1,1,C,CTC,3359.34781976,4063.88590679575
+236,140.2,142.6,SCRRA,"BNSF,SCAX",River-West Bank Line, , ,Amtrak,Pacific Surfliner, , , , ,1,N/A,3,35,25,0,2,S,"2MT,CTC",179.38396533,217.267769389844
+237,419.3,423.1,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,75,60,1,1,C,CTC,5799.92959159,7016.30408562789
+238,248.7,249.9,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,2,25,25,1,2,C,"2MT,CTC",1846.91396062,2265.7055413813
+239,249.9,251.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,2,C,"2MT,CTC",2617.65299221,3210.25562227027
+240,251.4,254.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",4877.14103376,5982.55153134576
+241,255.6,259.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,40,35,1,1,C,"TWC,ABS",6130.97525149,7513.51353906245
+242,259.4,260.9,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",2451.66938641,3005.011473821
+243,260.9,262.5,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,70,60,1,1,C,"TWC,ABS",2510.61709463,3074.96929358811
+244,262.5,267,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,70,60,1,1,C,"TWC,ABS",7013.83645722,8585.40096905408
+245,267,269,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,70,60,1,1,C,"TWC,ABS",3214.33859954,3934.67716511509
+246,269,273.2,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,70,60,1,1,C,"TWC,ABS",7107.14506254,8694.32012596734
+247,273.2,273.6,UP,"UP,SMV",Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,"TWC,ABS",700.19640419,856.610185091571
+248,273.6,277.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,"TWC,ABS",5913.1484252,7227.23685059498
+249,277.4,281.5,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",6742.36202044,8230.20379677339
+250,281.5,283.2,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,40,35,1,1,C,"TWC,ABS",2607.08601886,3184.43836983621
+251,283.2,284.5,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,40,40,1,1,C,"TWC,ABS",1317.14377457,1606.46932301366
+252,284.5,286.7,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,40,40,1,1,C,"TWC,ABS",4132.18311367,5035.64632969525
+253,286.7,289.9,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,"TWC,ABS",5193.28971393,6335.91739599462
+254,289.9,293.9,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",6794.24678773,8292.06982633293
+255,293.9,299.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,"TWC,ABS",7801.75623549,9514.53213913623
+256,299.4,304.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",9664.42114518,11776.0405938507
+257,304.6,305.8,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",1860.71127193,2266.97348219893
+258,305.8,314,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",13316.7592075,16180.5326228123
+259,314,321.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",11395.1393079,13849.5034560129
+260,321.4,331.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",16428.9367572,19918.2542214282
+261,331.4,335.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",6251.98244666,7579.63107364846
+262,335.4,336.3,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,55,50,1,1,C,"TWC,ABS",1336.69369709,1620.33039221425
+263,336.3,342.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,"TWC,ABS",9655.60687045,11706.251169504
+264,342.4,346.5,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,"TWC,ABS",6597.78493449,8000.24964003315
+265,346.5,351.7,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,75,60,1,1,C,"TWC,ABS",8565.84793294,10386.4850360415
+266,351.7,355.8,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,75,60,1,1,C,"TWC,ABS",6523.29882874,7904.9022281642
+267,355.8,357.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,CTC,3139.56035544,3804.5457641393
+268,357.6,358.2,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,CTC,762.6497023,924.132713341615
+269,358.2,358.3,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,CTC,382.72918705,463.773344947691
+270,358.3,359.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,CTC,1731.25177376,2097.85520383281
+271,359.4,362.9,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,CTC,5485.57160035,6647.44083044491
+272,362.9,365,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,60,1,1,C,CTC,3381.42623384,4099.97227694835
+273,365,367.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,2,C,"2MT,CTC",3738.01269255,4533.08843549869
+274,367.4,368.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,45,40,1,2,C,"2MT,CTC",2054.7258026,2489.99338710779
+275,368.6,374,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,45,40,1,1,C,CTC,8672.63621721,10508.2774171961
+276,374,377.8,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,CTC,6115.06582281,7413.13875626728
+277,377.8,382.1,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,CTC,6914.89436494,8379.69778686267
+278,382.1,385.3,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,55,40,1,1,C,CTC,5087.46581089,6169.43777375299
+279,385.3,386.3,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,CTC,1743.87679032,2114.32591164135
+280,386.3,394,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,CTC,12372.9245649,14989.3200140515
+281,394,394.8,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,CTC,1227.54897684,1484.46784173249
+282,394.8,397.2,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,CTC,3539.23729036,4283.66498929752
+283,397.2,399.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,79,40,1,1,C,CTC,4126.68789938,4992.10185609594
+284,399.6,400.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,65,50,1,1,C,CTC,1201.29648275,1452.78326705229
+285,400.4,404,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,65,50,1,1,C,CTC,5786.32635472,7013.19874256141
+286,404,405.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,79,50,1,1,C,CTC,2444.90585938,2956.53475156295
+287,405.6,408.7,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,79,60,1,1,C,CTC,5139.52710694,6208.39328618081
+288,408.7,412.5,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,79,60,1,1,C,CTC,6127.2020647,7406.35815896934
+289,412.5,414.7,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,79,60,1,1,C,CTC,3559.86322333,4313.2164926544
+290,414.7,416.4,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,79,60,1,1,C,CTC,3187.46310877,3861.89996687813
+291,416.4,419.3,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner",Metrolink,Ventura County Line, , ,1,I,4,70,60,1,1,C,CTC,4619.49752274,5589.13360343993
+292,254.6,255.6,UP,UP,Santa Barbara, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,4,60,40,1,1,C,"TWC,ABS",1608.68647046,1972.65461019185
+293,225.3,225.9,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,3,55,45,0,1,S,CTC,1001.29779343,1200.64680998802
+294,225.9,226.4,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",744.98534703,892.437431640814
+295,226.8,228.4,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",2582.52168712,3092.65357966826
+296,228.4,229.2,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,1,S,CTC,1206.70996983,1444.10117273556
+297,229.2,231.4,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,1,S,CTC,3596.28687434,4307.71919272537
+298,231.4,233.3,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",2854.25123427,3420.41360128777
+299,233.3,234.5,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",1576.15485887,1888.74963031361
+300,234.5,237.7,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,80,55,0,1,S,CTC,5863.12232972,7024.42065463982
+301,237.7,238,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,70,55,0,1,S,CTC,404.09899851,484.327345760907
+302,238,239.7,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,70,55,0,2,S,"2MT,CTC",2787.98023203,3338.0850082419
+303,239.7,241.1,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,70,50,0,1,S,CTC,1998.61406667,2393.02928674275
+304,241.1,241.8,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,70,50,0,2,S,"2MT,CTC",991.46019831,1187.00034576596
+305,241.8,242.2,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",659.76989582,790.188746743739
+306,242.2,243.3,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,1,S,CTC,1981.76815364,2373.23971161543
+307,243.3,243.9,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,65,55,0,1,S,CTC,995.09711088,1191.42430967231
+308,244,248.8,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,1,S,CTC,7514.95858569,8978.20678000366
+309,249,249.8,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,2,50,20,0,1,S,CTC,1476.21869076,1761.82440542752
+310,249.8,252.9,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,3,50,50,0,1,S,CTC,4636.41053955,5520.08869461495
+311,252.9,253,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,3,50,50,0,2,S,"2MT,CTC",187.20580208,223.992335499314
+312,253,257.9,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,3,35,30,0,2,S,"2MT,CTC",8037.90060358,9574.30630078675
+313,257.9,260.5,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,75,55,0,1,S,CTC,4334.82104973,5175.2455153405
+314,260.5,263.2,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,75,55,0,2,S,"2MT,CTC",4099.1339076,4897.52078878591
+315,263.2,264.1,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,75,55,0,1,S,CTC,1437.31639861,1716.91060087812
+316,264.2,265.5,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,65,40,0,2,S,"2MT,CTC",2096.36707241,2496.08441082415
+317,267.2,267.5,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,1,15,10,0,4,S,"4MT,RL",326.57668841,390.192793877759
+318,267.5,267.7,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner, , , , ,1,LOC,1,20,10,0,4,S,"4MT,RL",190.09461423,227.118476048331
+319,243.9,244,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,65,55,0,1,S,CTC,176.3715393,211.090489712833
+320,264.1,264.2,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,65,40,0,2,S,"2MT,CTC",317.68746654,379.454944473589
+321,226.4,226.8,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",652.02038402,781.032824475538
+322,248.8,249,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,4,90,55,0,1,S,CTC,235.43294865,281.030525939264
+323,207.4,209.2,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,75,55,0,1,S,CTC,2972.42392462,3557.71157664882
+324,209.2,212.3,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",4885.99831258,5853.22633628224
+325,212.3,218.1,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,1,S,CTC,9240.04637789,11073.9976205369
+326,265.5,267.2,SDNR,BNSF,San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,NCTD,Coaster, , ,1,LOC,1,20,10,0,2,S,"2MT,CTC",2812.21497367,3353.18191913954
+327,218.1,221.9,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",6016.95716494,7212.63217786432
+328,221.9,222.6,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",1243.87283273,1490.84148011953
+329,222.6,222.8,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",411.40259629,492.64186496638
+330,222.8,223.6,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,1,S,CTC,1210.12064949,1449.00790049723
+331,223.6,225.3,SDNR,"BNSF,PSRR",San Diego,San Diego Northern,SDNR,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,LOC,4,90,55,0,2,S,"2MT,CTC",2714.21532439,3256.08842917077
+332,0,0.8,SMV,"UP,SMV",Main Line, , ,Amtrak,"Coast Starlight,Pacific Surfliner", , , , ,1,I,3,50,40,1,1,C,"TWC,ABS",700.19640419,856.610185091571
+333,170.6,172.4,SCRRA,"BNSF,UP",Orange, , ,Amtrak,Pacific Surfliner,Metrolink,"Inland Empire-Orange County Line,Orange County Line", , ,1,N/A,4,79,50,1,2,S,"2MT,CTC",522.24288749,630.807632770378
+334,31,33,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,3,35,35,1,2,S,"2MT,CTC",3216.0978601,4057.61140601909
+335,33,33.9,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,4,70,60,1,1,S,CTC,1613.25047676,2035.4969225497
+336,33.9,34.8,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,4,70,60,1,1,S,CTC,1384.23673017,1746.31483284085
+337,34.8,36.5,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,4,70,60,1,1,S,CTC,2290.99164361,2890.42258702945
+338,36.5,38.5,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,4,70,60,1,1,S,CTC,3058.73564291,3858.53172597804
+339,38.5,40.7,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,3,50,40,1,1,S,CTC,4124.08949587,5199.67497363137
+340,29.7,30.1,UP,UP,Niles, , ,Amtrak,Capitol Corridor,SJRRC,ACE, , ,1,I,1,15,10,1,1, ,CTC,772.90809361,975.580093670907
+341,29.3,29.7,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,3,35,35,1,1, ,CTC,453.61402361,572.85764204191
+342,20.9,29.3,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,4,79,50,1,1, ,CTC,13860.2824946,17510.9542411001
+343,18.7,20.9,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,4,79,50,1,1, ,CTC,3474.50374952,4393.41068279234
+344,17.6,18.7,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,4,79,50,1,1, ,CTC,1783.16247922,2255.28361129951
+345,13.5,13.7,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,4,79,60,1,2,S,"2MT,CTC",302.56169465,382.92889860274
+346,13.7,16.5,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,4,79,50,1,1, ,CTC,4627.17081024,5854.91953446136
+347,12.1,13.5,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,1,2,S,"2MT,CTC",2396.66522567,3033.61294620694
+348,11.8,12.1,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,1,2,S,"2MT,CTC",502.24166003,635.803316230976
+349,10.3,10.4,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,2,2,S,"2MT,CTC",184.9818559,234.190729150764
+350,9.8,10.3,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,2,2,S,"2MT,CTC",870.49571887,1102.11050474039
+351,8.3,9.8,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,2,2,S,"2MT,CTC",2305.47005873,2919.12171554858
+352,7.6,8.3,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,2,2,S,"2MT,CTC",1277.84098746,1617.62417948231
+353,7.3,7.6,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",546.57907162,691.916450769236
+354,7,7.3,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",386.63466141,489.487931643799
+355,6.3,6.4,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",274.55825501,347.636831581883
+356,44.7,45.7,UP,"UP,JPBX",Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight","PCJPB,SJRRC","ACE,Caltrain", , ,1,I,3,30,25,1,3, ,"3MT,CTC",1189.03962074,1496.75950274441
+357,44.7,44.7,UP,"PCJPB,UP",Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight","PCJPB,SJRRC","ACE,Caltrain", , ,1,I,3,30,25,1,3, ,"3MT,CTC",437.37238144,550.572357625792
+358,43.6,44.7,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,3,50,50,1,2,S,"2MT,CTC",2216.39209753,2792.24649031645
+359,40.7,43.6,UP,UP,Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight",SJRRC,ACE, , ,1,I,4,60,50,1,1,S,CTC,4132.63922823,5207.65432636266
+360,45.7,46.4,UP,"PCJPB,UP",Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight","PCJPB,SJRRC","ACE,Caltrain", , ,1,I,3,40,40,1,3, ,"3MT,CTC",1423.45330799,1791.71102009796
+361,46.4,47.1,UP,"PCJPB,UP",Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight","PCJPB,SJRRC","ACE,Caltrain", , ,1,I,3,40,40,1,3, ,"3MT,CTC",881.89221726,1110.26382772234
+362,47.1,47.5,UP,"PCJPB,UP",Coast, , ,Amtrak,"Capitol Corridor,Coast Starlight","PCJPB,SJRRC","ACE,Caltrain", , ,1,I,2,15,15,1,3, ,"3MT,CTC",613.61434641,772.73419027111
+363,31.7,31.8,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,3,S,"3MT,CTC",166.89098503,211.906599017971
+364,31,31.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,3,S,"3MT,CTC",826.50543075,1049.48594957602
+365,31.8,32,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,45,30,4,3,S,"3MT,CTC",460.49050631,584.796454681582
+366,32,32.8,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,45,30,4,2,S,"2MT,CTC",877.08544634,1113.9177844922
+367,32.8,32.9,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,45,30,3,2,S,"2MT,CTC",202.29203667,256.913702769983
+368,32.9,34.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,45,30,3,2,S,"2MT,CTC",2846.65903332,3618.37335446011
+369,34.4,34.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,40,30,3,2,S,"2MT,CTC",369.66724036,470.022887241983
+370,34.5,38,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,40,30,3,2,S,"2MT,CTC",4912.56646708,6247.19627476298
+371,38.2,42.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",6931.74132169,8822.88355837375
+372,42.3,48.9,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",10227.5346057,13029.5256709541
+373,48.9,52,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,75,60,3,2,S,"2MT,CTC",5484.90171487,6989.58138872933
+374,110.5,120.6,UP,UP,Roseville-Track 2, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,40,40,3,1,S,ABS,15626.3944856,20079.6969166824
+375,93.4,101.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,4,60,40,6,2,S,"2MT,CTC",12700.2300672,16275.4624160283
+376,2.2,3.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",1509.80008353,1912.95688730473
+377,3.2,3.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",246.40374413,312.339577376593
+378,3.7,4.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",1207.21282091,1530.5211811578
+379,4.3,4.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",564.46832754,715.698532129738
+380,4.5,4.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",210.03429563,266.31298300542
+381,4.7,5.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",816.97461458,1035.94091005474
+382,5.2,6.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",2058.67120795,2610.87048348161
+383,6.2,9.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",6439.65004514,8169.79946912588
+384,9.4,12,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",2721.85059186,3453.45118172845
+385,12,15.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",5303.15910764,6734.87443990096
+386,15.3,20.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,4,79,70,4,2,S,"2MT,CTC",8220.84119928,10440.2125595261
+387,20.4,20.8,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,43,30,4,2,S,"2MT,CTC",789.79351463,1003.39493576765
+388,20.8,26,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,43,30,4,2,S,"2MT,CTC",8186.92050924,10402.9732532855
+389,26,27.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,2,S,"2MT,CTC",2220.99267886,2821.53772429449
+390,27.5,30.1,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,30,4,2,S,"2MT,CTC",4387.74490962,5575.79341580211
+391,30.1,31,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,40,30,4,2,S,"2MT,CTC",1489.73298794,1892.01302120034
+392,52,55.4,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",5497.98325941,7008.98833872105
+393,55.4,59.4,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",6329.19150292,8076.16873284765
+394,65.5,67.5,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",3213.50140126,4106.59051249407
+395,67.5,75,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",12178.2764495,15575.1158824773
+396,75.6,79.1,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,55,30,3,2,S,"2MT,CTC",5444.90374842,6963.54254848796
+397,79.1,86.9,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",12499.4210263,15990.4044367854
+398,88.1,88.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,30,30,3,2,S,"2MT,CTC",954.69154572,1221.53014685685
+399,86.9,88.1,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",1831.26658025,2342.95884445646
+400,88.5,88.8,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,2,20,20,3,2,S,"2MT,CTC",428.07976369,547.742086031719
+401,88.8,88.9,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,20,20,3,2,S,"2MT,CTC",121.8096013,155.852308553164
+402,88.9,90.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,20,20,3,2,S,"2MT,CTC",2048.07362833,2621.02933504223
+403,90.2,90.6,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,San Joaquin", , , , ,1,I,3,35,35,6,2,S,"2MT,CTC",584.08724768,747.365511664839
+404,90.6,91.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,San Joaquin", , , , ,1,I,3,35,35,6,3,S,"3MT,CTC",1735.06359776,2219.99041931714
+405,91.7,92,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,30,25,6,2,S,"2MT,CTC",550.18843876,704.61580099919
+406,92,93.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,30,25,6,2,S,"2MT,CTC",2072.40663548,2654.84466663599
+407,105.3,106.4,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,40,40,6,2,S,"2MT,CTC",1148.88981119,1473.99511581556
+408,104.5,104.7,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,40,40,6,2,S,"2MT,CTC",597.21101494,766.334901264873
+409,104.7,105.3,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,40,40,6,2,S,"2MT,CTC",1207.55243191,1549.40019990093
+410,102.5,104.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",2988.73142187,3834.48378097942
+411,101.3,102.5,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,4,79,70,6,2,S,"2MT,CTC",2393.97001069,3070.10972545474
+412,38,38.2,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",325.19594809,413.74493843632
+413,59.4,65.5,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",10288.6031947,13138.980729018
+414,75,75.4,UP,"UP,BNSF,CFNR",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,70,3,2,S,"2MT,CTC",602.02553339,770.455496249725
+415,75.4,75.6,UP,"UP,BNSF",Martinez, , ,Amtrak,"California Zephyr,Capitol Corridor,Coast Starlight", , , , ,1,I,3,55,30,3,2,S,"2MT,CTC",381.07947017,487.45887360055
+416,10.4,11.8,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight", , , , ,1,I,4,79,60,1,2,S,"2MT,CTC",1966.81753241,2490.0167467226
+417,4.6,5.2,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",1066.77063365,1351.42524926174
+418,34.5,34.9,UP,UP,Niles, , ,Amtrak,Capitol Corridor,SJRRC,ACE, , ,1,I,4,79,45,1,2, ,"2MT,CTC",759.71893951,959.035298478568
+419,32,34.5,UP,UP,Niles, , ,Amtrak,Capitol Corridor,SJRRC,ACE, , ,1,I,3,45,45,1,2, ,"2MT,CTC",3648.26930698,4606.30847951042
+420,30.1,32,UP,UP,Niles, , ,Amtrak,Capitol Corridor,SJRRC,ACE, , ,1,I,1,15,10,1,2, ,"2MT,CTC",2712.31466316,3423.45241522176
+421,6.4,6.8,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",733.38271754,928.580527785557
+422,6.8,7,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,2,25,15,2,2,S,"2MT,CTC",231.51277719,293.12633872102
+423,5.8,6.3,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,2,2,S,"2MT,CTC",615.30071877,779.009477720412
+424,5.2,5.8,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",694.8068977,879.689233406516
+425,4.2,4.6,UP,"UP,BNSF",Niles, , ,Amtrak,"Capitol Corridor,Coast Starlight,San Joaquin", , , , ,1,I,3,50,40,4,2,S,"2MT,CTC",429.92343928,544.844854527977
+426,16.5,17.6,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor, , , , ,1,I,4,79,50,1,1, ,CTC,1828.78385851,2313.35588268054
+427,106.8,110.5,UP,UP,Roseville-Track 2, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,40,40,4,2,S,"2MT,CTC",6512.36861499,8359.40170165863
+428,120.6,124.3,UP,UP,Roseville-Track 2, , ,Amtrak,"California Zephyr,Capitol Corridor", , , , ,1,I,3,50,40,3,1,S,"2MT,CTC",6391.68879175,8215.31074544136
+429,29.3,29.7,UP,"UP,BNSF",Niles, , ,Amtrak,Capitol Corridor,SJRRC,ACE, , ,1,I,3,35,35,1,1, ,CTC,283.0158801,357.477015365727
